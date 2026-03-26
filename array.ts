@@ -1,6 +1,6 @@
 let user:string[]=["hiren","hitu"];
 console.log(user);
-user.push("ruhi");
+user.push("niv");
 console.log(user);
 
 
